@@ -3,8 +3,8 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/kalhara/Bash-Script-Lab?style=for-the-badge)](https://github.com/kalhara/Bash-Script-Lab/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/kalhara/Bash-Script-Lab?style=for-the-badge)](https://github.com/kalhara/Bash-Script-Lab/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab.git/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab.git/issues)
 
 A curated collection of Bash scripts designed for Linux system administration, focusing on automation, user management, file permissions, and NGINX configuration on Red Hat Enterprise Linux (RHEL) 9. This repository serves as a learning lab and portfolio for practical sysadmin tasks.
 
