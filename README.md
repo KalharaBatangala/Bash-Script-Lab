@@ -18,7 +18,7 @@ This repository contains Bash scripts developed to streamline system administrat
 - [Basics](./basics/README.md) - Core syntax and introductory scripts.
 - [File Management](./file-management/README.md) - Handling files and directories.
 - [Process Control](./process-control/README.md) - Managing system processes.
-- [Network Operations](./network-operations/README.md) - Network diagnostics and tasks.
+- [Network Operations](./network-operations/) - Network diagnostics and tasks.
 - [User Administration](./user-administration/README.md) - User and permission management.
 - [Backup and Recovery](./backup-and-recovery/README.md) - Data protection scripts.
 - [Monitoring and Logging](./monitoring-and-logging/README.md) - System health checks.
