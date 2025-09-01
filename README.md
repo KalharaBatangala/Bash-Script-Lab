@@ -9,6 +9,7 @@ A curated collection of Bash scripts designed for Linux system administration, f
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab/issues)
+[![Tests](https://github.com/KalharaBatangala/Bash-Script-Lab/actions/workflows/test.yml/badge.svg)](https://github.com/KalharaBatangala/Bash-Script-Lab/actions/workflows/test.yml)
 
 
 ## 📖 Overview
@@ -30,6 +31,10 @@ This repository contains Bash scripts developed to streamline system administrat
 
 - **Operating System**: RHEL 9 (or compatible Linux distribution)
 
+## Testing
+- Scripts are tested with Bats (Bash Automated Testing System).
+- Run locally: `./test/libs/bats-core/bin/bats tests/`
+- Automated via GitHub Actions: See the Tests badge above for CI results.
 
 ## 🔧 Setup and Usage
 

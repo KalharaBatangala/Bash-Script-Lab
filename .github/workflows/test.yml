@@ -1,0 +1,21 @@
+name: Bash Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Bats
+        run: |
+          git submodule update --init --recursive
+          ./test/libs/bats-core/bin/bats --version
+      - name: Run Tests
+        run: ./test/libs/bats-core/bin/bats tests/
+      - name: Run ShellCheck
+        uses: ludeeus/action-shellcheck@master
