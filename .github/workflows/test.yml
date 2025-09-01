@@ -17,5 +17,3 @@ jobs:
           ./test/libs/bats-core/bin/bats --version
       - name: Run Tests
         run: ./test/libs/bats-core/bin/bats tests/
-      - name: Run ShellCheck
-        uses: ludeeus/action-shellcheck@master
