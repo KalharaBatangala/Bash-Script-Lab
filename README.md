@@ -4,26 +4,27 @@ A curated collection of Bash scripts designed for Linux system administration, f
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)]
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab.git/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab.git/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab/issues)
+
 
 ## 📖 Overview
 
 This repository contains Bash scripts developed to streamline system administration tasks on RHEL 9.6. Starting with foundational scripts, it aims to grow into a comprehensive toolkit for automation, user management, and system monitoring. Each script is documented with usage instructions and designed for clarity and reusability.
 
 ## Table of Contents
-- [Basics](./basics/README.md) - Core syntax and introductory scripts.
-- [File Management](./file-management/README.md) - Handling files and directories.
-- [Process Control](./process-control/README.md) - Managing system processes.
+- [Basics](./basics/) - Core syntax and introductory scripts.
+- [File Management](./file-management/) - Handling files and directories.
+- [Process Control](./process-control/) - Managing system processes.
 - [Network Operations](./network-operations/) - Network diagnostics and tasks.
-- [User Administration](./user-administration/README.md) - User and permission management.
-- [Backup and Recovery](./backup-and-recovery/README.md) - Data protection scripts.
-- [Monitoring and Logging](./monitoring-and-logging/README.md) - System health checks.
-- [Automation Tasks](./automation-tasks/README.md) - Integrated automation workflows.
-- [Security Utils](./security-utils/README.md) - Security-related utilities.
+- [User Administration](./user-administration/) - User and permission management.
+- [Backup and Recovery](./backup-and-recovery/) - Data protection scripts.
+- [Monitoring and Logging](./monitoring-and-logging/) - System health checks.
+- [Automation Tasks](./automation-tasks/) - Integrated automation workflows.
+- [Security Utils](./security-utils/) - Security-related utilities.
 
 ## 🛠️ Prerequisites
 
