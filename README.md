@@ -6,10 +6,9 @@ A curated collection of Bash scripts designed for Linux system administration, f
 [![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/KalharaBatangala/Bash-Script-Lab?style=for-the-badge)](https://github.com/KalharaBatangala/Bash-Script-Lab/issues)
-[![Tests](https://github.com/KalharaBatangala/Bash-Script-Lab/actions/workflows/test.yml/badge.svg)](https://github.com/KalharaBatangala/Bash-Script-Lab/actions/workflows/test.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/KalharaBatangala/Bash-Script-Lab/test.yml?style=for-the-badge&logo=github)](https://github.com/KalharaBatangala/Bash-Script-Lab/actions/workflows/test.yml)
 
 
 ## 📖 Overview
