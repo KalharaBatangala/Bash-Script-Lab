@@ -1,4 +1,4 @@
-[<img src="../img/home.webp" alt="Home" width="24" height="24"> Home](../)
+[<img src="../img/home.webp" alt="Home" width="24" height="24">](../)
 
 # Basics Scripts
 
