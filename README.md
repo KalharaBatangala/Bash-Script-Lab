@@ -13,7 +13,7 @@ A curated collection of Bash scripts designed for Linux system administration, f
 
 ## 📖 Overview
 
-This repository contains Bash scripts developed to streamline system administration tasks on RHEL 9.6. Starting with foundational scripts, it aims to grow into a comprehensive toolkit for automation, user management, and system monitoring. Each script is documented with usage instructions and designed for clarity and reusability.
+This repository contains Bash scripts developed to streamline system administration tasks on RHEL 9.6 Plow. Starting with foundational scripts, it aims to grow into a comprehensive toolkit for automation, user management, and system monitoring. Each script is documented with usage instructions and designed for clarity and reusability.
 
 ## Table of Contents
 - [Basics](./basics/) - Core syntax and introductory scripts.
@@ -29,6 +29,7 @@ This repository contains Bash scripts developed to streamline system administrat
 ## 🛠️ Prerequisites
 
 - **Operating System**: RHEL 9 (or compatible Linux distribution)
+- **Shell**: Bourn again Shell
 
 ## Testing
 - Scripts are tested with Bats (Bash Automated Testing System).
