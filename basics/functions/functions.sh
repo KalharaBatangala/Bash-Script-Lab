@@ -4,7 +4,7 @@
 # Function to check if username is valid (alphanumeric, 3-16 characters)
 validate_username() {
   local username="$1"
-  if [[ "$username" =~ ^[a-zA-Z0-9]{3,16}$ ]]; then
+  if [[ "$username" =~ ^[a-zA-Z0-9]{3,16}$ ]]; then     #using regex for pattern match
     echo "Valid username: $username"
     return 0
   else
